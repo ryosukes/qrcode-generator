@@ -4,6 +4,8 @@
 
 The simple QR code generator
 
+https://cocky-davinci-202b8c.netlify.app/
+
 ## serve at local
 
 1. `npm run build`
