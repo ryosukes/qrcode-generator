@@ -1,4 +1,4 @@
-# qr-generator
+# qrcode-generator
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f50eb12d-b544-4486-9a52-f38e0411959f/deploy-status)](https://app.netlify.com/sites/cocky-davinci-202b8c/deploys)
 
