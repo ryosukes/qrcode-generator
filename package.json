@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "serve": "webpack-dev-server"
+    "serve": "webpack-dev-server",
+    "build": "webpack --config webpack.config.js"
   },
   "dependencies": {
     "@ryosukes/wasm-qr": "^0.1.1"
